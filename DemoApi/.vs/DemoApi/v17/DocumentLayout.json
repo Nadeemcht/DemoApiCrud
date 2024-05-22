@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\WEPAPIPROJECTS\\DemoApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11479E8B-4527-4895-B4C7-EB4D94463AAE}|DemoApi.csproj|f:\\wepapiprojects\\demoapi\\helper\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11479E8B-4527-4895-B4C7-EB4D94463AAE}|DemoApi.csproj|solutionrelative:helper\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11479E8B-4527-4895-B4C7-EB4D94463AAE}|DemoApi.csproj|F:\\WEPAPIPROJECTS\\DemoApi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11479E8B-4527-4895-B4C7-EB4D94463AAE}|DemoApi.csproj|solutionrelative:controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11479E8B-4527-4895-B4C7-EB4D94463AAE}|DemoApi.csproj|f:\\wepapiprojects\\demoapi\\container\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11479E8B-4527-4895-B4C7-EB4D94463AAE}|DemoApi.csproj|solutionrelative:container\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11479E8B-4527-4895-B4C7-EB4D94463AAE}|DemoApi.csproj|F:\\WEPAPIPROJECTS\\DemoApi\\service\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11479E8B-4527-4895-B4C7-EB4D94463AAE}|DemoApi.csproj|solutionrelative:service\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11479E8B-4527-4895-B4C7-EB4D94463AAE}|DemoApi.csproj|F:\\WEPAPIPROJECTS\\DemoApi\\helper\\automapperhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11479E8B-4527-4895-B4C7-EB4D94463AAE}|DemoApi.csproj|solutionrelative:helper\\automapperhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11479E8B-4527-4895-B4C7-EB4D94463AAE}|DemoApi.csproj|F:\\WEPAPIPROJECTS\\DemoApi\\modal\\customermodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11479E8B-4527-4895-B4C7-EB4D94463AAE}|DemoApi.csproj|solutionrelative:modal\\customermodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11479E8B-4527-4895-B4C7-EB4D94463AAE}|DemoApi.csproj|F:\\WEPAPIPROJECTS\\DemoApi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11479E8B-4527-4895-B4C7-EB4D94463AAE}|DemoApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "F:\\WEPAPIPROJECTS\\DemoApi\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomerController.cs",
+              "ToolTip": "F:\\WEPAPIPROJECTS\\DemoApi\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T16:55:36.262Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "APIResponse.cs",
+              "DocumentMoniker": "F:\\WEPAPIPROJECTS\\DemoApi\\Helper\\APIResponse.cs",
+              "RelativeDocumentMoniker": "Helper\\APIResponse.cs",
+              "ToolTip": "F:\\WEPAPIPROJECTS\\DemoApi\\Helper\\APIResponse.cs",
+              "RelativeToolTip": "Helper\\APIResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T19:03:09.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AutoMapperHandler.cs",
+              "DocumentMoniker": "F:\\WEPAPIPROJECTS\\DemoApi\\Helper\\AutoMapperHandler.cs",
+              "RelativeDocumentMoniker": "Helper\\AutoMapperHandler.cs",
+              "ToolTip": "F:\\WEPAPIPROJECTS\\DemoApi\\Helper\\AutoMapperHandler.cs",
+              "RelativeToolTip": "Helper\\AutoMapperHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T19:06:21.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Customermodal.cs",
+              "DocumentMoniker": "F:\\WEPAPIPROJECTS\\DemoApi\\Modal\\Customermodal.cs",
+              "RelativeDocumentMoniker": "Modal\\Customermodal.cs",
+              "ToolTip": "F:\\WEPAPIPROJECTS\\DemoApi\\Modal\\Customermodal.cs",
+              "RelativeToolTip": "Modal\\Customermodal.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T18:57:04.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\WEPAPIPROJECTS\\DemoApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\WEPAPIPROJECTS\\DemoApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T17:01:24.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "F:\\WEPAPIPROJECTS\\DemoApi\\Container\\CustomerService.cs",
+              "RelativeDocumentMoniker": "Container\\CustomerService.cs",
+              "ToolTip": "F:\\WEPAPIPROJECTS\\DemoApi\\Container\\CustomerService.cs",
+              "RelativeToolTip": "Container\\CustomerService.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAowBUAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T16:58:21.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "F:\\WEPAPIPROJECTS\\DemoApi\\Service\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "Service\\ICustomerService.cs",
+              "ToolTip": "F:\\WEPAPIPROJECTS\\DemoApi\\Service\\ICustomerService.cs",
+              "RelativeToolTip": "Service\\ICustomerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T16:57:50.568Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
